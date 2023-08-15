@@ -1,0 +1,25 @@
+.app-bar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 5px;
+}
+
+.login-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.user-container {
+    margin: 20px;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.fetch-button {
+    width: 250px;
+}
